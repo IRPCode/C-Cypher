@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1706757073 source:c:\users\user\documents\programming\cypher\main.c
-	<stdio.h>
-	<stdlib.h>
-	<stdbool.h>
-
